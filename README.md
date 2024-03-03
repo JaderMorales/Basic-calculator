@@ -4,7 +4,7 @@
 Basic calculator with simple design developed in html, css and js.
  
 
-[Try the calculator by click here](jadermorales.github.io/Basic-calculator/)
+[Try the calculator by click here](HTTPS://jadermorales.github.io/Basic-calculator/)
 # Technologies used
 
 <p align="left">
